@@ -1,8 +1,6 @@
 #+title: pokerp
 #+date: [2015-05-02 Sat]
 
-* pokerp
-
 Planning Poker. Demonstration originated for HS Mannheim MSI 2015.
 
 * License
